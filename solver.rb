@@ -5,7 +5,7 @@ class Solver
   def factorial(num)
     raise NonNegativeIntegerError, 'Argument must be a non-negative integer' if num.negative?
 
-    1 if num.zero?
+    return 1 if num.zero?
 
     (1..num).reduce(:*)
   end
