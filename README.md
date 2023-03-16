@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 OOP RUBY School](#-OOP RUBY School Libray-)
+- [📖 TDD Ruby](#-TDDRuby-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 OOP RUBY School Libray <a name="about-project"></a>
+# 📖 TDD Ruby  <a name="about-project"></a>
 
-**OOP RUBY School Libray** is a library of that manages all the students and teachers data .
+**TDD Ruby ** is a TDD based project , using Rspec
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -37,7 +37,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add Classes**
+- **Add Rspec tests**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -51,7 +51,7 @@ To get a local copy up and running, follow these steps:
 To get a local copy up and running, follow these steps:
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/houdamzari/OOP-Ruby-school-library`
+  - `https://github.com/houdamzari/TDD-RUBY`
 - Run the code with ruby
 
 ### Prerequisites
@@ -78,14 +78,6 @@ Clone this repository to your desired folder:
 - GitHub: [@houdamzari](https://github.com/houdamzari)
 - LinkedIn: [@houdamzari](https://www.linkedin.com/in/houda-mzari-2304401b1/)
 - Portfolio [@houdamzari](https://houdamzari.github.io/Portfolio-Website/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **More enumarable features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
