@@ -12,8 +12,6 @@ end
 
 end
 
-
-
 solver = Solver.new
 puts solver.factorial(5)  # Output: 120
 puts solver.reverse("hello") #=> "olleh"

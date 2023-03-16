@@ -3,16 +3,13 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 TDD Ruby](#-TDDRuby-)
-  - [🛠 Built With ](#-built-with-)
+- [📖 TDD Ruby  ](#-tdd-ruby--)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -70,7 +67,7 @@ Clone this repository to your desired folder:
 - Clone the project to your directory by running
   - `https://github.com/houdamzari/enumerables.git`
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 
 👤 **Houda MZARI**
@@ -78,6 +75,12 @@ Clone this repository to your desired folder:
 - GitHub: [@houdamzari](https://github.com/houdamzari)
 - LinkedIn: [@houdamzari](https://www.linkedin.com/in/houda-mzari-2304401b1/)
 - Portfolio [@houdamzari](https://houdamzari.github.io/Portfolio-Website/)
+
+👤 **Kennedy Owusu**
+
+- GitHub: [@kennedyowusu](https://github.com/kennedyowusu)
+- Twitter: [@_iamkobby](https://twitter.com/@_iamkobby)
+- LinkedIn: [@kennedyowusu](www.linkedin.com/in/kennedyowusu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
