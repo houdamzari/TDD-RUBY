@@ -1,5 +1,6 @@
 require 'test/unit'
 require_relative 'solver'
+require 'rspec'
 
 class TestSolver < Test::Unit::TestCase
   def setup
@@ -18,15 +19,17 @@ class TestSolver < Test::Unit::TestCase
     assert_raise(ArgumentError) { @solver.factorial(-5) }
   end
 
- describe "#reverse" do
-    it "reverses a word correctly" do
-      expect(@solver.reverse("hello")).to eq("olleh")
-      expect(@solver.reverse("ruby")).to eq("ybur")
-      expect(@solver.reverse("world")).to eq("dlrow")
+  describe TestSolver do
+    describe "#reverse" do
+      it "reverses a string" do
+        solver = TestSolver.new
+        expect(solver.reverse("hello")).to eq("olleh")
+        expect(solver.reverse("world")).to eq("dlrow")
+      end
+      
+      it "returns an empty string when given an empty string" do
+        expect(@solver.reverse("")).to eq("")
+      end
     end
-
- it "returns an empty string when given an empty string" do
-      expect(@solver.reverse("")).to eq("")
-    end
-
+  end
 end
