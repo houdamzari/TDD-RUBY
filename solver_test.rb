@@ -19,13 +19,11 @@ class TestSolver < Test::Unit::TestCase
   end
 
   def test_reverse_reverses_a_string
-    assert_equal("olleh", @solver.reverse("hello"))
-    assert_equal("dlrow", @solver.reverse("world"))
+    assert_equal('olleh', @solver.reverse('hello'))
+    assert_equal('dlrow', @solver.reverse('world'))
   end
-  
+
   def test_reverse_returns_an_empty_string_when_given_an_empty_string
-    assert_equal("", @solver.reverse(""))
+    assert_equal('', @solver.reverse(''))
   end
-
 end
-
